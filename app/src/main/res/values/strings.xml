@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MonitoreoApp</string>
+    <string name="iniciar_servicio">Iniciar Servicio</string>
+    <string name="detener_servicio">Detener Servicio</string>
+    <string name="ip_local">IP Local:</string>
+    <string name="estado_servicio">Estado:</string>
+    <string name="titulo_app">Sistema de Monitoreo Remoto</string>
+</resources>
